@@ -60,7 +60,7 @@ body {
   padding: 32px 24px 0 24px;
 }
 
-.site--header {
+.site-header {
   display: flex;
   justify-content: space-between;
   align-items: center;
