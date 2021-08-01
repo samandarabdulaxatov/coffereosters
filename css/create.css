@@ -260,6 +260,7 @@ html{
   background-position: center;
   background-size: contain;
   padding: 0;
+  cursor: pointer;
 }
 
 .wrapper{
@@ -892,6 +893,7 @@ html{
   transition: background-color 0.3s ease, opacity 0.3s ease;
   white-space: nowrap;
   border: none;
+  cursor: pointer;
 }
 
 .btn--primary {
